@@ -1,1 +1,1 @@
-I HAVE ADDED THE INDEX IN THE FILE index.md 
+I have added the index in index.md 

@@ -1,0 +1,1 @@
+I HAVE ADDED THE INDEX IN THE FILE index.md 
